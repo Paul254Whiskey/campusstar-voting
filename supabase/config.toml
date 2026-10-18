@@ -1,0 +1,16 @@
+project_id = "campus-star-award"
+
+[functions.mpesa-stk]
+verify_jwt = false
+
+[functions.mpesa-callback]
+verify_jwt = false
+
+[functions.register-contestant]
+verify_jwt = false
+
+[functions.admin-manage]
+verify_jwt = false
+
+[functions.contestant-profile]
+verify_jwt = false
